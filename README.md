@@ -38,6 +38,6 @@ This is a simple React application that allows users to explore TV shows and boo
 ```
 
 ## Installation
-- git clone <repository-url>
+- git clone `<https://github.com/Nikunj-Khinchi/TvShow.git>`
 - Install dependencies: `npm install`
 - Start the development server: `npm run dev` 
